@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5e36b910298b0f0f2cc1bd61"},"n":"手机","d":"goodsList_1","i":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3493126277,2407465260&fm=26&gp=0.jpg"}
+{"_id":{"$oid":"5e36b910298b0f0f2cc1bd62"},"n":"家电","d":"goodsList_2","i":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581516925722&di=b3657be20b5fae040d65d97b69e02c9d&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffinance%2Ftransform%2F20171128%2FI_DU-fypathz6698453.png"}
+{"_id":{"$oid":"5e36b910298b0f0f2cc1bd63"},"n":"汽车","d":"goodsList_3","i":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1990773719,1940047174&fm=26&gp=0.jpg"}
+{"_id":{"$oid":"5e381afbc21bc0132aaa65ca"},"n":"箱包","d":"goodsList_4","i":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3609511962,4273899219&fm=26&gp=0.jpg"}
+{"_id":{"$oid":"5e43c519aec9761220983086"},"n":"服饰","d":"goodsList_5","i":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581517096105&di=fc76cbdf6dc8d954612ff9085db50e57&imgtype=0&src=http%3A%2F%2Fi1.w.hjfile.cn%2Fdoc%2F201008%2F2010080518544162586884.jpg"}
+{"_id":{"$oid":"5e43c6b5aec976122098308e"},"n":"电脑","d":"goodsList_6","i":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581517143283&di=d7270eb4ba6781d33cdb9e1ad2f11f4f&imgtype=0&src=http%3A%2F%2Fwe.poppur.com%2Fdata%2Fattachment%2Fforum%2F201308%2F27%2F172056lk19q5qkquuk1nne.jpg"}
+{"_id":{"$oid":"5e54a3d3de9aad20d8d950ce"},"n":"test1","d":"goodsList_7","i":"1231234"}

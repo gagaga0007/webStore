@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e43c6c5aec976122098308f"},"name":"联想","price":"100","category":"goodsList_6","img":"https://img10.360buyimg.com/n1/s450x450_jfs/t1/27962/28/337/190626/5c08cc58E7be0b65b/f017d992032ffdb4.jpg","describe":"联想，电脑的","saled":2}
+{"_id":{"$oid":"5e43c6f5aec9761220983090"},"name":"戴尔","price":"200","category":"goodsList_6","img":"//img14.360buyimg.com//n0/jfs/t1/28052/24/6184/422897/5c4ab977Ee44b0130/388394b5577cf7df.jpg","describe":"戴尔电脑，好","saled":0}
+{"_id":{"$oid":"5e43c722aec9761220983091"},"name":"惠普","price":"300","category":"goodsList_6","img":"https://img12.360buyimg.com/n1/s450x450_jfs/t1/85404/1/2316/180671/5dce1a6dE2875052b/1e86e109e41490ce.jpg","describe":"惠普，舒服","saled":6}
+{"_id":{"$oid":"5e43c756aec9761220983092"},"name":"华硕","price":"500","category":"goodsList_6","img":"//img10.360buyimg.com/n1/jfs/t1/95023/32/629/261507/5db13dbaE6acd00f3/c316e9f9effdd9c7.jpg","describe":"华硕，性能强","saled":6}
+{"_id":{"$oid":"5e43c850aec9761220983093"},"name":"微星","price":"600","category":"goodsList_6","img":"https://img14.360buyimg.com/n1/s450x450_jfs/t1/54302/28/8387/456480/5d5fbca0E2f1f2589/f5125fad16296330.jpg","describe":"微星，得劲","saled":0}
